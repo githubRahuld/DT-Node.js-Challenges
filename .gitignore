@@ -1,0 +1,56 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.test
+.env.production
+.env.*.local
+
+# Dependency directories
+bower_components/
+
+# Build files
+dist/
+build/
+
+# Debug files
+*.swp
+*.swo
+*.vim
+
+# Coverage directory used by testing frameworks
+coverage/
+
+# Cache
+.cache/
+.cache-loader/
+.vscode/
+.DS_Store
+
+# IDE / Editor directories
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Optional lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Ignore any generated static files
+/public/static/
+

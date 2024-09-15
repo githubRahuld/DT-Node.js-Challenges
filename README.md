@@ -34,10 +34,11 @@ This is an event management REST API that allows users to create, retrieve, upda
 ```bash
 git clone https://github.com/githubRahuld/DT-Node.js-Challenges.git
 
+###  git install
+###  Run: npm run dev
+
 Payload Structure
 When creating or updating an event, the following payload is expected:
-
-###  Run: npm run dev
 
 {
   "uid": 18,
